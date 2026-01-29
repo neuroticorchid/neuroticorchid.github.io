@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-success?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Web%20%7C%20Minecraft-orange?style=for-the-badge)
 
-The official headquarters for the **Orchid Ecosystem**. This project serves as the central hub for our community, integrating AI-driven initiatives (Neuro-sama), our official Minecraft instance, and a Material 3 Expressive web experience.
+The official headquarters for the **Orchid Ecosystem**. This project serves as the central hub for our community, insipred by the AI overlord (Neuro-sama), our official Minecraft instance, and a Material 3 Expressive web experience.
 
 ---
 
