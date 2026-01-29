@@ -1,4 +1,4 @@
-# 🌿 Neurotic Orchid Hub
+# 🌿 Orchid's Hub
 
 ![Version](https://img.shields.io/badge/version-2.0.0--beta-blueviolet?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-success?style=for-the-badge)
