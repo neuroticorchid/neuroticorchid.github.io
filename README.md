@@ -13,7 +13,7 @@ The official headquarters for the **Orchid Ecosystem**. This project serves as t
 | Service | Address | Platform | Status |
 | :--- | :--- | :--- | :--- |
 | **Minecraft** | `neuroticorchid.falixsrv.me` | Java & Bedrock | 🟢 Online |
-| **Discord** | [Join the Swarm](https://discord.gg/jmtRuhud5M) | Community | 🟢 Active |
+| **Discord** | [Join the Swarm](https://orchidneurons.neocities.org/Discord-Server) | Community | 🟢 Active |
 
 ---
 
